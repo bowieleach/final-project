@@ -1,5 +1,7 @@
 # Status Report
 
+#NOTE: my project is different from the first proposal I put out, but it matches with the current proposal
+
 #### Your name
 
 # Bowie Leach
