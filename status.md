@@ -1,6 +1,6 @@
 # Status Report
 
-#NOTE: my project is different from the first proposal I put out, but it matches with the current proposal
+#NOTE: my project is different from the first proposal I put out, but it matches with the current proposal and this idea was also approved with professor rosen in my original meet with him :)
 
 #### Your name
 
