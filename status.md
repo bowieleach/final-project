@@ -29,3 +29,4 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 #### What problems, if any, have you encountered?
 
 # Downloading and setting up RenPy took a while because of some bugs and I had to figure out a way around it. The story idea of my vn was a bit ambitious and I decided to kind of change it so it could be more simple and (hopefully) complete
+# I also had to make changes to the story because it was too ambitious for this project
